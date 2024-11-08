@@ -1,0 +1,3 @@
+C:/Desenvolvimento/Projetos/C/Studio Pilates/cmake-build-debug/CMakeFiles/Studio_Pilates.dir
+C:/Desenvolvimento/Projetos/C/Studio Pilates/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Desenvolvimento/Projetos/C/Studio Pilates/cmake-build-debug/CMakeFiles/rebuild_cache.dir
